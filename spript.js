@@ -92,6 +92,8 @@ var allVideos = {
     "https://player.vimeo.com/video/770011738?h=ef80a1b7d0",
   "assets/videos/3D/3DWANDERER.mp4#t=5":
     "https://player.vimeo.com/video/770011127?h=3278f5c2f8",
+  "assets/videos/COMERCIAL/JulioOkuboCampanhaMãesTrim.mp4#t=2":
+    "https://player.vimeo.com/video/790509577?h=5ff4cd06ea",
   "assets/videos/AUTORAIS/SobaLenteTrim.mp4#t=3.5":
     "https://player.vimeo.com/video/731179431?h=9b87222ada",
   "assets/videos/COMERCIAL/AmazoniaemEXAMEIGTVTrim.mp4#t=2":
@@ -99,8 +101,6 @@ var allVideos = {
   "assets/videos/COMERCIAL/EnodiaAtelierTrim.mp4#t=2":
     "https://player.vimeo.com/video/727426164?h=7f2c341a7c",
   //*** #t=0 ao final pra determinar o frame do vídeo que vai ser a thumb ***
-  "assets/videos/COMERCIAL/JulioOkuboCampanhaMãesTrim.mp4#t=2":
-    "https://player.vimeo.com/video/790509577?h=5ff4cd06ea",
   "assets/videos/COMERCIAL/NaturaxÁrvoreShowReelTrim.mp4#t=4":
     "https://www.youtube.com/embed/Iv33denEOys?si=cBROiExkcF5Bzd7x",
 };
