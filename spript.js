@@ -84,8 +84,8 @@ var allVideos = {
     "https://player.vimeo.com/video/1031191544?h=00a9ffd041",
   "assets/videos/AI/Preview TV.mp4":
     "https://player.vimeo.com/video/1031190840?h=2ab936aa35",
-  "assets/videos/AI/SilentPortrayalsTrim.mp4":
-    "https://www.youtube.com/embed/YQnj-8tnS_E?si=oX0UGwtu1ni3qneG",
+  "assets/videos/AI/Preview Keune.mp4":
+    "https://player.vimeo.com/video/1022265770?h=5a486fafdc",
   "assets/videos/3D/3DCONTACT.mp4":
     "https://player.vimeo.com/video/770011545?h=7249150444",
   "assets/videos/3D/3DNEWDAY.mp4":
@@ -101,8 +101,8 @@ var allVideos = {
   "assets/videos/COMERCIAL/EnodiaAtelierTrim.mp4#t=2":
     "https://player.vimeo.com/video/727426164?h=7f2c341a7c",
   //*** #t=0 ao final pra determinar o frame do vídeo que vai ser a thumb ***
-  "assets/videos/COMERCIAL/NaturaxÁrvoreShowReelTrim.mp4#t=4":
-    "https://www.youtube.com/embed/Iv33denEOys?si=cBROiExkcF5Bzd7x",
+  "assets/videos/AI/SilentPortrayalsTrim.mp4":
+    "https://www.youtube.com/embed/YQnj-8tnS_E?si=oX0UGwtu1ni3qneG",
 };
 
 function createVideo(src, vimeoUrl) {
