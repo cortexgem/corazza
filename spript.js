@@ -78,10 +78,10 @@ sr.reveal(`#home, #nav-bar, #about, #works, #contact`, {
 var allVideos = {
   "assets/videos/AI/preview thingsbetwixt.mp4":
     "https://player.vimeo.com/video/989801494?h=26c7f02e2e",
-  "assets/videos/AI/GreenLab.mp4":
-    "https://player.vimeo.com/video/876914728?h=465b55533c",
-  "assets/videos/AI/ThrivingPondTrim.mp4":
-    "https://player.vimeo.com/video/876914555?h=cbef4bb827",
+  "assets/videos/AI/Preview did you get the dream.mp4":
+    "https://player.vimeo.com/video/1031189541?h=b52c320fa8",
+  "assets/videos/AI/preview nike ad.mp4":
+    "https://player.vimeo.com/video/1031191544?h=00a9ffd041",
   "assets/videos/AI/FungalTexturesTrim.mp4":
     "https://www.youtube.com/embed/u6oMLGfMSoY",
   "assets/videos/AI/SilentPortrayalsTrim.mp4":
