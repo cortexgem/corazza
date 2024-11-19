@@ -82,8 +82,8 @@ var allVideos = {
     "https://player.vimeo.com/video/1031189541?h=b52c320fa8",
   "assets/videos/AI/preview nike ad.mp4":
     "https://player.vimeo.com/video/1031191544?h=00a9ffd041",
-  "assets/videos/AI/FungalTexturesTrim.mp4":
-    "https://www.youtube.com/embed/u6oMLGfMSoY",
+  "assets/videos/AI/Preview TV.mp4":
+    "https://player.vimeo.com/video/1031190840?h=2ab936aa35",
   "assets/videos/AI/SilentPortrayalsTrim.mp4":
     "https://www.youtube.com/embed/YQnj-8tnS_E?si=oX0UGwtu1ni3qneG",
   "assets/videos/3D/3DCONTACT.mp4":
