@@ -76,8 +76,8 @@ sr.reveal(`#home, #nav-bar, #about, #works, #contact`, {
 // VIDEO GALLERY
 // *** Endereço dos vídeos e link pro embed ***
 var allVideos = {
-  "assets/videos/AI/UncannyLandscapesTrim.mp4":
-    "https://player.vimeo.com/video/859910013?h=61d063f865",
+  "assets/videos/AI/preview thingsbetwixt.mp4":
+    "https://player.vimeo.com/video/989801494?h=26c7f02e2e",
   "assets/videos/AI/GreenLab.mp4":
     "https://player.vimeo.com/video/876914728?h=465b55533c",
   "assets/videos/AI/ThrivingPondTrim.mp4":
