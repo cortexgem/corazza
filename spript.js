@@ -76,9 +76,9 @@ sr.reveal(`#home, #nav-bar, #about, #works, #contact`, {
 // VIDEO GALLERY
 // *** Endereço dos vídeos e link pro embed ***
 var allVideos = {
-  "assets/videos/AI/preview thingsbetwixt.mp4":
+  "assets/videos/AI/preview thingsbetwixt.mp4#t=1":
     "https://player.vimeo.com/video/989801494?h=26c7f02e2e",
-  "assets/videos/AI/Preview did you get the dream.mp4":
+  "assets/videos/AI/Preview did you get the dream.mp4#t=12":
     "https://player.vimeo.com/video/1031189541?h=b52c320fa8",
   "assets/videos/AI/preview nike ad.mp4":
     "https://player.vimeo.com/video/1031191544?h=00a9ffd041",
